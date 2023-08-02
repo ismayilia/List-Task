@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\bin\Debug\net6.0\Collections-List.exe
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\bin\Debug\net6.0\Collections-List.deps.json
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\bin\Debug\net6.0\Collections-List.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\bin\Debug\net6.0\Collections-List.dll
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\bin\Debug\net6.0\Collections-List.pdb
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\Collections-List.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\Collections-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\Collections-List.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\Collections-List.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\Collections-List.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\Collections-List.dll
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\refint\Collections-List.dll
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\Collections-List.pdb
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\Collections-List.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 01.08\Collections-List\Collections-List\obj\Debug\net6.0\ref\Collections-List.dll

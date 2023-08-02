@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\LessonTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\LessonTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\LessonTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\LessonTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\LessonTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\bin\Debug\net6.0\LessonTask.exe
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\bin\Debug\net6.0\LessonTask.deps.json
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\bin\Debug\net6.0\LessonTask.runtimeconfig.json
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\bin\Debug\net6.0\LessonTask.dll
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\bin\Debug\net6.0\LessonTask.pdb
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\LessonTask.dll
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\refint\LessonTask.dll
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\LessonTask.pdb
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\LessonTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\CodeWorkTask\LessonTask\LessonTask\obj\Debug\net6.0\ref\LessonTask.dll
